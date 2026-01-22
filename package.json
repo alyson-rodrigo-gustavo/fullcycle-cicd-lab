@@ -1,0 +1,16 @@
+{
+  "name": "pratica-cicd",
+  "version": "1.0.0",
+  "description": "Projeto pratica CI/CD Full Cycle",
+  "license": "ISC",
+  "author": "Alyson Rodrigo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

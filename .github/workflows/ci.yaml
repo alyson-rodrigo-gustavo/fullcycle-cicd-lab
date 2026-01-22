@@ -1,0 +1,8 @@
+name: CI Project Node
+
+on:
+  pull_request:
+    branches:
+      - develop
+
+jobs:
